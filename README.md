@@ -10,4 +10,4 @@ Cada fila en estos archivos representa una colaboración institucional, y cada c
 
 Para más detalles sobre el contenido de estas bases de datos por favor ver el archivo [BASES_DE_INSTITUCIONES_ASOCIADAS.pdf](https://github.com/ANID-GITHUB/Colaboracion_Institucional/blob/0e7225a657001ff4602faa0623aa47b884d14104/BASES%20DE%20INSTITUCIONES%20ASOCIADAS.pdf) incluido en este mismo repositorio.
 
-Ante cualquier comentario o consulta, por favor ingrésela a través del portal Ayuda ANID en https://ayuda.anid.cl/hc/es. 
+Ante cualquier comentario o consulta, por favor ingrésela a través del portal Ayuda ANID en https://ayuda.anid.cl/hc/es.  
